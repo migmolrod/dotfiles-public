@@ -1,7 +1,7 @@
 [user]
-	name = Roman Perepelitsa
-	email = roman.perepelitsa@gmail.com
-	signingkey = 8B060F8B9EB395614A669F2A90ACE942EB90C3DD
+	name = migmolrod
+	email = migmolrod@fastmail.es
+	signingkey = 3AA5C34371567BD2
 [diff]
 	tool = meld
 [merge]
